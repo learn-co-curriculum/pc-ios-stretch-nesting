@@ -1,8 +1,9 @@
 ##Stretch Material
 
-NESTED DATA STRUCTURES *This material is bonus - think of it as nice-to-have*
-+ Dictionaries and Arrays can occur inside of other dictionaries and arrays. Its data structure inception!
-+ 
+**Nested Data Structures** 
+
+Dictionaries and Arrays can occur inside of other dictionaries and arrays. Its data structure inception!
+ 
 ```swift
 //nested array:
 salad_ingredients = [
