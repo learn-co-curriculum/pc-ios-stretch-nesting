@@ -21,4 +21,20 @@ This data would be much better represented as a dictionary (explain why). Can yo
   dressing:["vinagrette", "ranch", "ginger-soy"] 
 ]
 ```
+**Random Numbers** 
+To generate a random number in Swift, within a range, it's super simple:
 
+```swift
+arc4random_uniform(n)
+```
+
+That will create a random number from 0 through n-1
+
+Put in English, if you wanted to randomly roll a dice (which has 6 possible sides)...
+
+```swift
+let diceRoll = Int(arc4random_uniform(7))
+```
+
+**UIPickerViews**
+UIPickerViews are an awesome way to help your user select out of a possibility of options. They also work extremely well with a list (*cough* *cough* an Array) of data. Check out this awesome [tutorial](http://sourcefreeze.com/ios-uipickerview-example-using-swift/) on how to get started with a UIPickerView.
