@@ -48,3 +48,5 @@ print(array[randomIndex])
 **UIPickerViews**
 
 UIPickerViews are an awesome way to help your user select out of a possibility of options. They also work extremely well with a list (*cough* *cough* an Array) of data. Check out this awesome [tutorial](http://sourcefreeze.com/ios-uipickerview-example-using-swift/) on how to get started with a UIPickerView.
+
+<a href='https://learn.co/lessons/pc-ios-stretch-nesting' data-visibility='hidden'>View this lesson on Learn.co</a>
